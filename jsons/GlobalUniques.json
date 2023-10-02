@@ -1,4 +1,5 @@
 {
     "name": "Global uniques",
-    "uniques": ["[-50]% Strength <for [All] units> <when attacking> <in [Coast] tiles>","[-50]% Strength <for [All] units> <when attacking> <in [Coast] tiles>"]
+    "uniques": ["[-50]% Strength <for [All] units> <when attacking> <in [Coast] tiles>","[-50]% Strength <for [All] units> <when attacking> <in [Coast] tiles>",
+    "[-1] Movement <for [All] units> <in [Coast] tiles>"]
 }
