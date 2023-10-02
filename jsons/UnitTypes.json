@@ -1,0 +1,27 @@
+[
+        {
+                "name": "Civilian Water",
+                "movementType": "Land",
+                "uniques": ["Cannot move <in [Grassland] tiles>","Cannot move <in [Plains] tiles>","Cannot move <in [Tundra] tiles>","Cannot move <in [Snow] tiles>"],
+        },
+        {
+                "name": "Melee Water",
+                "movementType": "Land",
+                "uniques": ["[+50]% Strength <when attacking>","Cannot move <in [Grassland] tiles>","Cannot move <in [Plains] tiles>","Cannot move <in [Tundra] tiles>","Cannot move <in [Snow] tiles>"],
+        },
+        {
+                "name": "Ranged Water",
+                "movementType": "Land",
+                "uniques": ["[+50]% Strength <when attacking>","Cannot move <in [Grassland] tiles>","Cannot move <in [Plains] tiles>","Cannot move <in [Tundra] tiles>","Cannot move <in [Snow] tiles>"],
+        },
+        {
+                "name": "Aircraft Carrier",
+                "movementType": "Land",
+                "uniques": ["[+50]% Strength <when attacking>","Cannot move <in [Grassland] tiles>","Cannot move <in [Plains] tiles>","Cannot move <in [Tundra] tiles>","Cannot move <in [Snow] tiles>"],
+        },
+        {
+                "name": "Submarine",
+                "movementType": "Land",
+                "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units","[+50]% Strength <when attacking>","Cannot move <in [Grassland] tiles>","Cannot move <in [Plains] tiles>","Cannot move <in [Tundra] tiles>","Cannot move <in [Snow] tiles>"],
+        },
+]
