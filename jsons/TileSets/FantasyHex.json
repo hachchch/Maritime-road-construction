@@ -1,4 +1,6 @@
 {
 	"useColorAsBaseTerrain": "false",
 	"ruleVariants": {
-    "": ["Grassland","Hills","City center"],
+    "Coast+Civilian": ["Coast","EmbarkedUnit-Civilian"],
+	}
+}
