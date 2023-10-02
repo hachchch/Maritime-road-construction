@@ -1,6 +1,6 @@
 {
 	"useColorAsBaseTerrain": "false",
 	"ruleVariants": {
-    "Embark": ["Coast","EmbarkedUnit"],
+    "Coast+Civilian": ["Coast","EmbarkedUnit"],
 	},
 }
