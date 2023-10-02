@@ -17,3 +17,73 @@ TileSets/FantasyHex/Units/Ocean+Civilian
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Coast+Civilian-Modern era
+  rotate: false
+  xy: 516, 874
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ocean+Civilian-Modern era
+  rotate: false
+  xy: 516, 874
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Coast+Military
+  rotate: false
+  xy: 476, 810
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Coast+Military-Modern era
+  rotate: false
+  xy: 516, 838
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Coast+Settler
+  rotate: false
+  xy: 476, 774
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Coast+Settler-Modern era
+  rotate: false
+  xy: 516, 802
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ocean+Military
+  rotate: false
+  xy: 476, 810
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ocean+Military-Modern era
+  rotate: false
+  xy: 516, 838
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ocean+Settler
+  rotate: false
+  xy: 476, 774
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ocean+Settler-Modern era
+  rotate: false
+  xy: 516, 802
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
